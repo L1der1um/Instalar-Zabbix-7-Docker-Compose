@@ -16,7 +16,7 @@
 
 Script desenvolvido para realizar a **implantação totalmente automatizada do Zabbix 7.0 LTS via Docker Compose**, incluindo instalação do Docker, banco de dados, frontend web, servidor, agente e configuração inicial do ambiente.
 
-O objetivo é disponibilizar uma instalação em containers **segura, rápida, isolada e padronizada**, eliminando praticamente toda a configuração manual necessária.
+O objetivo é disponibilizar uma instalação em containers que seja **seguro, rápido, isolado e padronizado**, eliminando praticamente toda a configuração manual necessária.
 
 ---
 
